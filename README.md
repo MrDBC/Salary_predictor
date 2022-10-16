@@ -1,4 +1,4 @@
-SOFTWARE DEVELOPER SALARY PREDICTOR 
+SOFTWARE DEVELOPER SALARY PREDICTOR  web app using STREAMLIT
 
 -> link : https://mrdbc-salary-predictor-app-y4n7h5.streamlitapp.com
 
